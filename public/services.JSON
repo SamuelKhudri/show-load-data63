@@ -1,0 +1,26 @@
+[
+    {
+        "servicename": "Day-Care",
+        "image": "https://image.shutterstock.com/image-photo/female-teacher-giving-lesson-nursery-600w-447567064.jpg",
+        "summery": "We care and manage lesson of your child all day by professional Teacher",
+        "duration": "Course-Based",
+        "timemenu": "Morning to evening",
+        "servicefee": "6000 tk-monthly"
+    },
+    {
+        "servicename": "Mid-Care",
+        "image": "https://image.shutterstock.com/image-photo/african-american-female-teacher-teaching-600w-2019372800.jpg",
+        "summery": "We care your child all day by professional Teacher",
+        "duration": "Course-Based",
+        "timemenu": "Morning to Noon 2-Pm",
+        "servicefee": "4000 tk-monthly"
+    },
+    {
+        "servicename": "Dorm-Care",
+        "image": "http://www.united.edu.np/school/wp-content/uploads/2019/04/28A8910-1024x683.jpg",
+        "summery": "We care your child Study, Progress, Food all day nad night by professional Teacher",
+        "duration": "Course-Based",
+        "timemenu": "All-time(in our Dorm)",
+        "servicefee": "12000 tk-monthly"
+    }
+]
